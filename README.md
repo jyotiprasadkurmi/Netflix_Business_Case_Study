@@ -1,3 +1,5 @@
+![pngwing com](https://github.com/jyotiprasadkurmi/Netflix_Business_Case_Study/assets/154520350/57ccbaca-ea6e-4d8b-b2f6-7a94e5080281)
+
 # Netflix_Business_Case_Study
 In this business case study, we delve into how Netflix harnesses the power of data to drive strategic decision-making and enhance user experience. Netflix, a global leader in streaming entertainment, operates in a highly competitive landscape where understanding audience preferences is paramount.
 I developed a Python project aimed at delving into a Netflix dataset sourced from Kaggle. The primary objective was to execute thorough data cleaning procedures and delve into exploratory data analysis (EDA) to extract valuable insights from the extensive Netflix content catalog.
